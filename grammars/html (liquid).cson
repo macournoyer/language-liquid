@@ -56,7 +56,7 @@
   'logic_op':
     'patterns': [
       {
-        'match': '\\s+(and|or|not|contains|(\\!\\=|\\=\\=|<\\=|>\\=|<|>)\\s+'
+        'match': '\\s+(and|or|not|contains|(\\!\\=|\\=\\=|<\\=|>\\=|\\<|\\>)\\s+'
         'name': 'keyword.operator.logical.liquid'
       }
     ]
